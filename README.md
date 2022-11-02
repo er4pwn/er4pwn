@@ -6,7 +6,7 @@
 
 #### 📫 How to reach me:  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/profiles/76561199415906190/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>]()  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>]()  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/mark-rhogie-purok-5630b619b/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/jihyoppa/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>]()  &nbsp; <a href="mailto:wenard.grometes54@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>]()  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>]()  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>]()  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/mark-rhogie-purok-5630b619b/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/jihyoppa/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>]()  &nbsp; <a href="mailto:wenard.grometes54@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
     ### Languages and Tools:
 
@@ -26,6 +26,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="https://fontawesomeicons.com/lib/svg/terminal-window-thin.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://fontawesomeicons.com/lib/svg/terminal-window-fill.svg" />
+<br>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
