@@ -1,7 +1,8 @@
-<h2> Hi, I'm Mark Rhogie! aka <a color="blue">jihyoppa</a> <img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width="50"></h2>
+<h2> Hi, I'm Mark Rhogie! aka <a style="color:blue">jihyoppa</a> <img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width="50"></h2>
 <img align='right' src="https://i.stack.imgur.com/gHaf2.png" width="230">
-<p><em>Currently studying Information Technology at <a href="http://www.unb.br">Mindanao State University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-<p><em>Penetration Tester at <a href="https://hackerone.com">@Hackerone</a><img src="https://media.tenor.com/pOBIIyZJ7XgAAAAi/doc-drdisrespect.gif" width="30"></br>Cyber Security Enthusiast</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+
+ <p><em>Currently studying Information Technology at<a href="https://msugensan.edu.ph/">Mindanao State University</a><img src="https://media.tenor.com/pOBIIyZJ7XgAAAAi/doc-drdisrespect.gif" width="30"></br>Penetration Tester at<a href="https://msugensan.edu.ph/">@Hackerone</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>Cyber Security Enthusiast</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
 #### 📫 How to reach me:  
