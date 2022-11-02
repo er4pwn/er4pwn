@@ -1,12 +1,12 @@
-<h2> Hi, I'm Mark Rhogie! <img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width="50"></h2>
+<h2> Hi, I'm Mark Rhogie! aka <h2><color="blue">jihyoppa</h2> <img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width="50"></h2>
 <img align='right' src="https://i.stack.imgur.com/gHaf2.png" width="230">
-<p><em>Currently studying Information Technology at <a href="http://www.unb.br">Mindanao State University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<p><em>Currently studying Information Technology at <a href="http://www.unb.br">Mindanao State University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 <p><em>Penetration Tester at <a href="https://hackerone.com">@Hackerone</a><img src="https://media.tenor.com/pOBIIyZJ7XgAAAAi/doc-drdisrespect.gif" width="30"></br>Cyber Security Enthusiast</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 #### 📫 How to reach me:  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>]()  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>]()  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>]()  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/mark-rhogie-purok-5630b619b/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/jihyoppa/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>]()  &nbsp; <a href="mailto:wenard.grometes54@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>]()  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>]()  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/mark-rhogie-purok-5630b619b/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/jihyoppa/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>]()  &nbsp; <a href="mailto:wenard.grometes54@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
     ### Languages and Tools:
 
