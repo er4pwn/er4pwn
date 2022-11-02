@@ -1,4 +1,4 @@
-<h2> Hi, I'm Mark Rhogie! aka <a href="buymecoffee.com/jihyoppa">jihyoppa <img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width="50"></h2>
+<h2> Hi, I'm Mark Rhogie! aka <a href="buymecoffee.com/jihyoppa">jihyoppa</a> <img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width="50"></h2>
 <img align='right' src="https://i.stack.imgur.com/gHaf2.png" width="230">
 
 
