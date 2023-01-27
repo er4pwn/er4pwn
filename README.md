@@ -34,7 +34,7 @@
 ```javascript
 const jihyoppa = {
   pronouns: "he" | "him",
-  description: "Hi, My name is Mark Rhogie Purok aka jihyoppa. I'm a 19 years old Penetration Tester at Philippines.
+  description: "Hi, My name is Mark Rhogie Purok aka jihyoppa. I'm a 20 years old Penetration Tester at Philippines.
                 I'm fascinated by Web Security, Network Security and Bug Bounty Hunting. Besides hacking, I love sports,
                 video games, instruments and listening to all genres music"
   code: [Python, Bootstrap, HTML, CSS, Java, Django, Go],
