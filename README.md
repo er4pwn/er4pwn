@@ -31,7 +31,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```php
+```javascript
 const jihyoppa = {
   pronouns: "he" | "him",
   description: "Hi, My name is Mark Rhogie Purok aka jihyoppa. I'm a 20 years old Penetration Tester at Philippines.
