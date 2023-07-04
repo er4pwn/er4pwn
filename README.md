@@ -43,7 +43,7 @@ const jihyoppa = {
   description: "Hi, My name is Mark Rhogie Purok aka jihyoppa. I'm a 20 years old Penetration Tester in the Philippines.
                 I'm fascinated by Web Security, Network Security and Bug Bounty Hunting. Besides hacking, I love sports,
                 video games, instruments and listening to all genres music"
-  code: [Python, Bootstrap, HTML, CSS, Php, Django, Go],
+  code: [Python, Bootstrap, Html, Css, Php, Django, Go],
   tools for recon: [Burpsuite, Sublist3r, Nikto, Nmap, SqlMap, WpScan, Shodan],
   musicRecommend: {
                         BoyWithUke: "Long Drives",
