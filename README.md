@@ -1,9 +1,13 @@
-<h2> Hi, I'm Mark Rhogie! aka <a href="https://www.buymeacoffee.com/jihyoppa">jihyoppa</a> <img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width="50"></h2>
-<img align='right' src="https://i.stack.imgur.com/gHaf2.png" width="230">
+<h2> Hi, I'm Mark Rhogie! aka <a href="https://www.buymeacoffee.com/jihyoppa">er4pwn   </a> <img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width="50"></h2>
+<img align='right' src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="230">
 
 
- <p><em>Currently studying Information Technology at<a href="https://msugensan.edu.ph/"> Mindanao State University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Penetration Tester at<a href="https://www.hackerone.com/jihyoppa"> @Hackerone</a><img src="https://media.tenor.com/pOBIIyZJ7XgAAAAi/doc-drdisrespect.gif" width="20"> </br>CTF Player <a href="https://ctftime.org/team/236418"> @pwngenius</a></a></br>Cyber Security Enthusiast</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ <p><em>Currently studying Information Technology at<a href="https://msugensan.edu.ph/"> Mindanao State University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Agdasima&weight=900&size=22&duration=3000&pause=1000&color=0EF723&width=435&lines=%2F~%24+Cyber+Security+Enthusiast;%2F~%24+CTF+Player+%40pwngenius;%2F~%24+Bug+Bounty+Hunter)]()
+
 
 #### 📫 How to reach me:  
 
@@ -28,10 +32,12 @@
 <img align="left" alt="Terminal" width="24px" src="https://fontawesomeicons.com/lib/svg/terminal-window-thin.svg" />
 <img align="left" alt="Terminal" width="24px" src="https://fontawesomeicons.com/lib/svg/terminal-window-fill.svg" />
 <br>
+<br>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+```javascript
+┌──(root㉿er4pwn)-[~]
+└─$ ./whoami.ko
 
-```py
 const jihyoppa = {
   pronouns: "he" | "him",
   description: "Hi, My name is Mark Rhogie Purok aka jihyoppa. I'm a 20 years old Penetration Tester at Philippines.
