@@ -31,13 +31,13 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
+```py
 const jihyoppa = {
   pronouns: "he" | "him",
   description: "Hi, My name is Mark Rhogie Purok aka jihyoppa. I'm a 20 years old Penetration Tester at Philippines.
                 I'm fascinated by Web Security, Network Security and Bug Bounty Hunting. Besides hacking, I love sports,
                 video games, instruments and listening to all genres music"
-  code: [Python, Bootstrap, HTML, CSS, Java, Django, Go],
+  code: [Python, Bootstrap, HTML, CSS, Php, Django, Go],
   tools for recon: [Burpsuite, Sublist3r, Nikto, Nmap, SqlMap, WpScan, Shodan],
   musicRecommend: {
                         BoyWithUke: "Long Drives",
