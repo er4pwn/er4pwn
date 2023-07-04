@@ -54,6 +54,5 @@ const jihyoppa = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>if you find me interesting</b> come say hi and <b>i'll be happy to entertain you!</b> :)</em>
 
 ---
