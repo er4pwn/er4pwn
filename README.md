@@ -6,7 +6,7 @@
 </em></p>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Agdasima&weight=900&size=22&duration=3000&pause=1000&color=0EF723&width=435&lines=%2F~%24+Cyber+Security+Enthusiast;%2F~%24+CTF+Player+%40pwngenius;%2F~%24+Bug+Bounty+Hunter)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Agdasima&weight=900&size=22&duration=3000&pause=1000&color=0EF723&width=435&lines=%2F~%24+Cyber+Security+Enthusiast;%2F~%24+CTF+Player+%40pwngenius;%2F~%24+Bug+Bounty+Hunter)](https://facebook.com/jihyoppa)
 
 
 #### 📫 How to reach me:  
