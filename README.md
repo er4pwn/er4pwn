@@ -38,7 +38,7 @@
 ┌──(root㉿er4pwn)-[~]
 └─$ ./whoami.ko
 
-const jihyoppa = {
+const er4pwn = {
   pronouns: "he" | "him",
   description: "Hi, My name is Mark Rhogie Purok aka jihyoppa. I'm a 20 years old Penetration Tester in the Philippines.
                 I'm fascinated by Web Security, Network Security and Bug Bounty Hunting. Besides hacking, I love sports,
