@@ -1,11 +1,6 @@
 <h2> Hi, I'm Mark Rhogie! aka <a href="https://www.buymeacoffee.com/jihyoppa">er4pwn   </a> <img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width="50"></h2>
 <img align='right' src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="230">
 
-
- <p><em>Currently studying Information Technology at<a href="https://msugensan.edu.ph/"> Mindanao State University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-</em></p>
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agdasima&weight=900&size=22&duration=3000&pause=1000&color=0EF723&width=435&lines=%2F~%24+Cyber+Security+Enthusiast;%2F~%24+CTF+Player+%40pwngenius;%2F~%24+Bug+Bounty+Hunter)](https://facebook.com/jihyoppa)
 
 
@@ -40,7 +35,7 @@
 
 const er4pwn = {
   pronouns: "he" | "him",
-  description: "Hi, My name is Mark Rhogie Purok aka jihyoppa. I'm a 20 years old Penetration Tester in the Philippines.
+  description: "Hi, My name is Mark Rhogie Purok aka jihyoppa.
                 I'm fascinated by Web Security, Network Security and Bug Bounty Hunting. Besides hacking, I love sports,
                 video games, instruments and listening to all genres music"
   code: [Python, Bootstrap, Html, Css, Php, Django, Go],
